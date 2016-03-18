@@ -1,0 +1,9 @@
+language: en-US
+name: Priyam Srivastava
+title: Priyam Srivastava's resume
+description: Priyam Srivastava's resume site using jekyll
+
+#-- Local configuration
+detach:  false
+port:    4000
+host:    127.0.0.1
