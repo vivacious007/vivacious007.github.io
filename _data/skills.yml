@@ -1,0 +1,39 @@
+- name: Html 5 / Css 3
+  level:
+    description: Expert
+    value: 95
+
+- name: PHP & SQL
+  level:
+    description: Proficient
+    value: 90
+
+- name: JS / Angular Js / Node Js 
+  level:
+    description: Proficient
+    value: 85
+
+- name: C/C++ & Java
+  level:
+    description: Basic
+    value: 65
+
+- name: Wordpress / Joomla / Magento 
+  level:
+    description: Intermediate
+    value: 70
+
+- name: Photoshop / Illustrator
+  level:
+    description: Proficient
+    value: 95
+
+- name: Git
+  level:
+    description: Proficient
+    value: 87
+
+- name: Android Development
+  level:
+    description: Intermediate
+    value: 79
