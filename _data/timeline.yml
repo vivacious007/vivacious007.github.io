@@ -1,34 +1,55 @@
-- title: Senior Analyst
-  company: WNS Global Services
-  year: May 2020 - Present
+- title: Advisory UI Developer
+  company: Pitney Bowes
+  year: Mar 2024 - Present
   description:
-    - Working on various UI Projects.
+    - Designing, prototyping, and developing interactive user interfaces using Angular and modern JavaScript.
+    - Leading UI development for Marketing and Renewals Automation projects with Angular and Node.js.
+    - Automated complex offer matrix generation, reducing processing time from days to minutes.
+    - Collaborating closely with product, design, and business teams to deliver high-quality UI solutions.
+    - Recognized with PB ACE Award for outstanding performance.
 
-- title: Associate Software Engineer
+- title: Deputy Manager / Senior Frontend Developer
+  company: WNS Global Services
+  year: May 2020 - Mar 2024
+  description:
+    - Developed scalable and high-performance web applications using React and modern JavaScript frameworks.
+    - Improved application performance and user experience, increasing website speed by up to 30%.
+    - Managed multiple UI projects simultaneously while meeting strict deadlines.
+    - Implemented CI/CD pipelines and deployment solutions using Jenkins, Docker, and AWS.
+    - Worked extensively with AWS services including EC2, S3, RDS, Lambda, IAM, VPC, and Route 53.
+    - Awarded WNS Excel@Work and Transform the Organization Award for best performance.
+
+- title: Software Engineer
   company: Pitney Bowes
   year: Oct 2017 - May 2020
   description:
-    - Worked on various projects to develop seamless UI using Angular,CSS,JS,NodeJs .
-    - Developed various POC's and dasboards in PowersBI ,Tableau etc.  
-    - Worked on Design projects using Adobe Xperience Design and Sketch.
-    
+    - Designed and developed interactive web applications using Angular and JavaScript.
+    - Built custom UI solutions for shipping and mailing sector clients.
+    - Created dashboards and reports using Power BI to deliver actionable insights.
+    - Collaborated with cross-functional teams to define features and deliver high-quality UI components.
+    - Recognized with PB ACE Award for performance excellence.
+
 - title: UI/UX Designer and Developer
-  company: Elucidata Inc.
-  year: Oct 2016 - Feb 2017
+  company: Elucidata Data Consulting Pvt. Ltd.
+  year: Oct 2016 - Jan 2017
   description:
-    - Worked on UI modules of various projects on Angular JS,HTML 5 , CSS 3 , JQUERY , Bootstrap . 	
+    - Designed and developed UI modules using AngularJS, HTML5, CSS3, jQuery, and Bootstrap.
+    - Worked on data analysis platforms focused on accelerating drug discovery.
+    - Created wireframes and prototypes using Sketch, Adobe XD, and InVision.
+    - Implemented responsive and scalable UI solutions following industry best practices.
 
 - title: Web Designer / Intern
-  company: UNICODE SYSTEMS Pvt Ltd.
+  company: Unicode Systems Pvt. Ltd.
   year: 2013
   description:
-    - Designed various User interfaces for online shopping websites using Html, Css , JS etc.
-    - Designed UI for RML Pathalogy web portal .
-    - Utilized technical understanding and passion to help others.  
+    - Designed user interfaces for e-commerce and web portal applications using HTML, CSS, and JavaScript.
+    - Developed UI components for healthcare and pathology-related web platforms.
+    - Assisted senior developers in UI development and design enhancements.
 
-- title: Content Writer/Web Developer - Intern		
-  company: Compaddicts Infotech Pvt Ltd.
+- title: Content Writer / Web Developer - Intern
+  company: Compaddicts Infotech Pvt. Ltd.
   year: 2012
   description:
-    - Worked with every customer to offer a complete and personalized solution to their technical needs.
-    - Designed many websites and maintained the official blog of the company.
+    - Developed and maintained company websites using HTML, CSS, and JavaScript.
+    - Managed and authored content for the company’s official blog.
+    - Worked closely with clients to deliver customized web and content solutions.
