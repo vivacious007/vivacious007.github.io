@@ -1,39 +1,59 @@
-- name: Html 5 / Css 3
+- name: HTML5 / CSS3 / SCSS
   level:
     description: Expert
     value: 95
 
-- name: PHP & SQL
+- name: JavaScript (ES6+)
   level:
-    description: Proficient
+    description: Expert
+    value: 95
+
+- name: React / Redux / Next.js
+  level:
+    description: Expert
+    value: 92
+
+- name: Angular / AngularJS
+  level:
+    description: Expert
     value: 90
 
-- name: JS / Angular Js / Node Js 
+- name: Node.js / REST APIs
   level:
     description: Proficient
     value: 85
 
-- name: C/C++ & Java
+- name: Responsive Design / Web Accessibility (WCAG)
   level:
-    description: Basic
-    value: 65
+    description: Expert
+    value: 92
 
-- name: Wordpress / Joomla / Magento 
-  level:
-    description: Intermediate
-    value: 70
-
-- name: Photoshop / Illustrator
+- name: UI/UX Design & Prototyping
   level:
     description: Proficient
-    value: 95
+    value: 88
 
-- name: Git
+- name: Adobe XD / Sketch / InVision / Figma
   level:
     description: Proficient
-    value: 87
+    value: 90
 
-- name: Android Development
+- name: AWS (EC2, S3, RDS, Lambda, IAM, VPC)
   level:
-    description: Intermediate
-    value: 79
+    description: Proficient
+    value: 82
+
+- name: Docker / Jenkins / CI-CD
+  level:
+    description: Proficient
+    value: 80
+
+- name: Power BI / Dashboarding
+  level:
+    description: Proficient
+    value: 78
+
+- name: Git / GitHub / GitLab
+  level:
+    description: Expert
+    value: 90
